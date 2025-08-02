@@ -92,6 +92,7 @@ h2 {
   padding: 2rem;
   flex-wrap: wrap;
   margin: auto;
+  flex-direction: row-reverse;
 }
 
 .recipe-text {
