@@ -1,0 +1,23 @@
+#chocolate_cake {
+    width: 400px;
+    height: auto; /* Keeps aspect ratio */
+    display: block;
+}
+
+#grilled_cheese {
+    width: 400px;
+    height: auto; /* Keeps aspect ratio */
+    display: block;
+}
+
+#pasta_salad {
+    width: 400px;
+    height: auto; /* Keeps aspect ratio */
+    display: block;
+}
+
+#smores {
+    width: 400px;
+    height: auto; /* Keeps aspect ratio */
+    display: block;
+}
