@@ -91,8 +91,7 @@ h2 {
   align-items: flex-start;
   padding: 2rem;
   flex-wrap: wrap;
-  margin: auto;
-  flex-direction: row-reverse;
+  margin: auto;  
 }
 
 .recipe-text {
